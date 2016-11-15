@@ -25,6 +25,6 @@ public class WEController {
     public String registerYourself() {
 
         return "register";
-  
+
     }
 }
